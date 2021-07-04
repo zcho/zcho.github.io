@@ -1,20 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T12:59:22.591Z" agent="5.0 (Macintosh)" etag="A-HYD3SkSuXRCxTzvGaL" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T13:33:54.934Z" agent="5.0 (Macintosh)" etag="aXVS4sd2597wjspNFNWW" version="14.8.4" type="github">
   <diagram name="Page-1" id="099fd60b-425b-db50-ffb0-6b813814b670">
-    <mxGraphModel dx="358" dy="247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="208" dy="143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ltz8epcXwrkfNexixSwU-1" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cabinet;hasStand=1" parent="1" vertex="1">
-          <mxGeometry x="97.5" y="120" width="270" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="b2apCBRLnLN1PqMGx8Zv-32" value="" style="shape=rect;dashed=0;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="156" y="268" width="155" height="12.5" as="geometry" />
-        </mxCell>
-        <mxCell id="b2apCBRLnLN1PqMGx8Zv-7" value="" style="shape=rect;dashed=0;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="155" y="189" width="155" height="12.5" as="geometry" />
+          <mxGeometry x="97.5" y="110" width="270" height="370" as="geometry" />
         </mxCell>
         <mxCell id="Ltz8epcXwrkfNexixSwU-2" value="&lt;div&gt;Столб 25А. К дому 3и фазы ВВГ-НГ-LS 4x6мм&lt;sup&gt;2&lt;/sup&gt; в двухстенной гофре&lt;/div&gt;&lt;div&gt;Тип заземления: &lt;b&gt;Выяснить???&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="410" y="10" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b2apCBRLnLN1PqMGx8Zv-47" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.din_rail;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="160.5" y="182" width="159.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Ltz8epcXwrkfNexixSwU-4" value="Бокс настенный ABB Mistral41 36М прозрачная дверь (с клемм) 3 ряда (507x292x120)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="90" width="500" height="20" as="geometry" />
@@ -24,14 +21,14 @@
             <mxGeometry x="200" y="170" width="30" height="50" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="b2apCBRLnLN1PqMGx8Zv-33" value="" style="shape=rect;dashed=0;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="156" y="354" width="155" height="12.5" as="geometry" />
-        </mxCell>
         <mxCell id="b2apCBRLnLN1PqMGx8Zv-3" value="MRVA 63A EKF" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.motor_starter_32_125a;" vertex="1" parent="1">
           <mxGeometry x="230" y="170" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2apCBRLnLN1PqMGx8Zv-4" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.motor_starter_32_125a;" vertex="1" parent="1">
           <mxGeometry x="260" y="170" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b2apCBRLnLN1PqMGx8Zv-42" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.din_rail;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="150.5" y="352" width="159.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="b2apCBRLnLN1PqMGx8Zv-15" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.surge_protection_1p;" vertex="1" parent="1">
           <mxGeometry x="174" y="340" width="9" height="50" as="geometry" />
@@ -41,6 +38,9 @@
         </mxCell>
         <mxCell id="b2apCBRLnLN1PqMGx8Zv-17" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.surge_protection_1p;" vertex="1" parent="1">
           <mxGeometry x="192" y="340" width="9" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b2apCBRLnLN1PqMGx8Zv-46" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.din_rail;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="150.5" y="264" width="159.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="b2apCBRLnLN1PqMGx8Zv-22" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.motor_protection_cb;" vertex="1" parent="1">
           <mxGeometry x="174" y="252" width="27" height="50" as="geometry" />
@@ -71,6 +71,12 @@
         </mxCell>
         <mxCell id="b2apCBRLnLN1PqMGx8Zv-31" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.surge_protection_1p;" vertex="1" parent="1">
           <mxGeometry x="273" y="340" width="9" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b2apCBRLnLN1PqMGx8Zv-34" value="" style="endArrow=none;html=1;fontSize=3;labelBorderColor=none;fillColor=#f5f5f5;strokeColor=#666666;exitX=0.519;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="b2apCBRLnLN1PqMGx8Zv-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="178.46" y="333" as="sourcePoint" />
+            <mxPoint x="178.46" y="302" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
