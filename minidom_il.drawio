@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T15:32:14.973Z" agent="5.0 (Macintosh)" etag="yLVxjjbYO1QgX6F6jqit" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T15:38:28.872Z" agent="5.0 (Macintosh)" etag="ulVAY5Oiunqflx-PRdim" version="14.8.4" type="github">
   <diagram name="Page-1" id="099fd60b-425b-db50-ffb0-6b813814b670">
     <mxGraphModel dx="358" dy="247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ltz8epcXwrkfNexixSwU-1" value="L" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cabinet;hasStand=1" parent="1" vertex="1">
+        <mxCell id="Ltz8epcXwrkfNexixSwU-1" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cabinet;hasStand=1" parent="1" vertex="1">
           <mxGeometry x="97.5" y="110" width="270" height="460" as="geometry" />
         </mxCell>
         <mxCell id="b2apCBRLnLN1PqMGx8Zv-62" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.pulse_1;fontSize=3;strokeColor=#B20000;fillColor=#e51400;fontColor=#ffffff;" parent="1" vertex="1">
